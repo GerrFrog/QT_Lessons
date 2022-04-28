@@ -10,6 +10,7 @@
 #include <QDomAttr>
 #include <QtWebKitWidgets/QWebView>
 #include <QtWebKit/QWebElementCollection>
+#include <QTextBrowser>
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
