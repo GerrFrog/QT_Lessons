@@ -1,0 +1,4 @@
+/home/falls/Desktop/Projects/QT_Lessons/lessons/build-11_lesson-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/falls/Desktop/Projects/QT_Lessons/lessons/build-11_lesson-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/falls/Desktop/Projects/QT_Lessons/lessons/build-11_lesson-Desktop-Debug/CMakeFiles/11_lesson.dir
+/home/falls/Desktop/Projects/QT_Lessons/lessons/build-11_lesson-Desktop-Debug/CMakeFiles/11_lesson_autogen.dir
