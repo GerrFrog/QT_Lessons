@@ -14,6 +14,9 @@ bin_dir="bin/"
 
 [ ! -d "$bin_dir" ] && mkdir -p "$bin_dir"
 
+apt update
+apt upgrade
+
 while read -r p ; do sudo apt-get install -y $p ; done < <(cat << "EOF"
     qt5-default 
     qtcreator 
